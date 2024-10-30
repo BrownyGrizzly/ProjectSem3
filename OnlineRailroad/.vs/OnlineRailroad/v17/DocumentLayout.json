@@ -1,0 +1,763 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|d:\\th\u01B0 mu\u0323c m\u01A1\u0301i\\test\\onlinerailroad\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|d:\\th\u01B0 mu\u0323c m\u01A1\u0301i\\test\\onlinerailroad\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|d:\\th\u01B0 mu\u0323c m\u01A1\u0301i\\test\\onlinerailroad\\models\\train.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|solutionrelative:models\\train.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|d:\\th\u01B0 mu\u0323c m\u01A1\u0301i\\test\\onlinerailroad\\enums\\usertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|solutionrelative:enums\\usertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|d:\\th\u01B0 mu\u0323c m\u01A1\u0301i\\test\\onlinerailroad\\models\\passengerdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|solutionrelative:models\\passengerdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|d:\\th\u01B0 mu\u0323c m\u01A1\u0301i\\test\\onlinerailroad\\controllers\\passengerdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|solutionrelative:controllers\\passengerdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|d:\\th\u01B0 mu\u0323c m\u01A1\u0301i\\test\\onlinerailroad\\controllers\\farerulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|solutionrelative:controllers\\farerulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|d:\\th\u01B0 mu\u0323c m\u01A1\u0301i\\test\\onlinerailroad\\controllers\\distancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|solutionrelative:controllers\\distancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|d:\\th\u01B0 mu\u0323c m\u01A1\u0301i\\test\\onlinerailroad\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|d:\\th\u01B0 mu\u0323c m\u01A1\u0301i\\test\\onlinerailroad\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|solutionrelative:services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|d:\\th\u01B0 mu\u0323c m\u01A1\u0301i\\test\\onlinerailroad\\services\\searchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|solutionrelative:services\\searchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|d:\\th\u01B0 mu\u0323c m\u01A1\u0301i\\test\\onlinerailroad\\services\\stationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|solutionrelative:services\\stationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|d:\\th\u01B0 mu\u0323c m\u01A1\u0301i\\test\\onlinerailroad\\services\\trainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|solutionrelative:services\\trainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|d:\\th\u01B0 mu\u0323c m\u01A1\u0301i\\test\\onlinerailroad\\services\\ischeduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|solutionrelative:services\\ischeduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|d:\\th\u01B0 mu\u0323c m\u01A1\u0301i\\test\\onlinerailroad\\services\\isearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|solutionrelative:services\\isearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|d:\\th\u01B0 mu\u0323c m\u01A1\u0301i\\test\\onlinerailroad\\services\\istationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|solutionrelative:services\\istationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|d:\\th\u01B0 mu\u0323c m\u01A1\u0301i\\test\\onlinerailroad\\services\\itrainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|solutionrelative:services\\itrainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|d:\\th\u01B0 mu\u0323c m\u01A1\u0301i\\test\\onlinerailroad\\services\\passengerdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|solutionrelative:services\\passengerdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|d:\\th\u01B0 mu\u0323c m\u01A1\u0301i\\test\\onlinerailroad\\services\\fareruleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|solutionrelative:services\\fareruleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|d:\\th\u01B0 mu\u0323c m\u01A1\u0301i\\test\\onlinerailroad\\services\\distanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|solutionrelative:services\\distanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|d:\\th\u01B0 mu\u0323c m\u01A1\u0301i\\test\\onlinerailroad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|d:\\th\u01B0 mu\u0323c m\u01A1\u0301i\\test\\onlinerailroad\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|d:\\th\u01B0 mu\u0323c m\u01A1\u0301i\\test\\onlinerailroad\\services\\ipassengerdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|solutionrelative:services\\ipassengerdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|d:\\th\u01B0 mu\u0323c m\u01A1\u0301i\\test\\onlinerailroad\\controllers\\schedulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|solutionrelative:controllers\\schedulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|d:\\th\u01B0 mu\u0323c m\u01A1\u0301i\\test\\onlinerailroad\\services\\scheduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|solutionrelative:services\\scheduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|d:\\th\u01B0 mu\u0323c m\u01A1\u0301i\\test\\onlinerailroad\\models\\farerule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|solutionrelative:models\\farerule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|d:\\th\u01B0 mu\u0323c m\u01A1\u0301i\\test\\onlinerailroad\\controllers\\routecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|solutionrelative:controllers\\routecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|d:\\th\u01B0 mu\u0323c m\u01A1\u0301i\\test\\onlinerailroad\\services\\routeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|solutionrelative:services\\routeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|d:\\th\u01B0 mu\u0323c m\u01A1\u0301i\\test\\onlinerailroad\\controllers\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|solutionrelative:controllers\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|d:\\th\u01B0 mu\u0323c m\u01A1\u0301i\\test\\onlinerailroad\\controllers\\stationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|solutionrelative:controllers\\stationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|d:\\th\u01B0 mu\u0323c m\u01A1\u0301i\\test\\onlinerailroad\\controllers\\traincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|solutionrelative:controllers\\traincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|d:\\th\u01B0 mu\u0323c m\u01A1\u0301i\\test\\onlinerailroad\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|solutionrelative:dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|d:\\th\u01B0 mu\u0323c m\u01A1\u0301i\\test\\onlinerailroad\\dtos\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|solutionrelative:dtos\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|d:\\th\u01B0 mu\u0323c m\u01A1\u0301i\\test\\onlinerailroad\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|d:\\th\u01B0 mu\u0323c m\u01A1\u0301i\\test\\onlinerailroad\\migrations\\20241028172811_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|solutionrelative:migrations\\20241028172811_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|d:\\th\u01B0 mu\u0323c m\u01A1\u0301i\\test\\onlinerailroad\\models\\route.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|solutionrelative:models\\route.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|d:\\th\u01B0 mu\u0323c m\u01A1\u0301i\\test\\onlinerailroad\\models\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|solutionrelative:models\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|d:\\th\u01B0 mu\u0323c m\u01A1\u0301i\\test\\onlinerailroad\\models\\station.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|solutionrelative:models\\station.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|d:\\th\u01B0 mu\u0323c m\u01A1\u0301i\\test\\onlinerailroad\\models\\distance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|solutionrelative:models\\distance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|d:\\th\u01B0 mu\u0323c m\u01A1\u0301i\\test\\onlinerailroad\\enums\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|solutionrelative:enums\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|d:\\th\u01B0 mu\u0323c m\u01A1\u0301i\\test\\onlinerailroad\\enums\\paymentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|solutionrelative:enums\\paymentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|d:\\th\u01B0 mu\u0323c m\u01A1\u0301i\\test\\onlinerailroad\\services\\irouteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|solutionrelative:services\\irouteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|d:\\th\u01B0 mu\u0323c m\u01A1\u0301i\\test\\onlinerailroad\\services\\ifareruleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|solutionrelative:services\\ifareruleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|d:\\th\u01B0 mu\u0323c m\u01A1\u0301i\\test\\onlinerailroad\\services\\idistanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|solutionrelative:services\\idistanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|d:\\th\u01B0 mu\u0323c m\u01A1\u0301i\\test\\onlinerailroad\\enums\\travelclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|solutionrelative:enums\\travelclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|d:\\th\u01B0 mu\u0323c m\u01A1\u0301i\\test\\onlinerailroad\\onlinerailroad.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8145A821-9FF2-471F-B7FD-861F992AB1C4}|OnlineRailroad.csproj|solutionrelative:onlinerailroad.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PassengerDetailController.cs",
+              "DocumentMoniker": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\Controllers\\PassengerDetailController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PassengerDetailController.cs",
+              "ToolTip": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\Controllers\\PassengerDetailController.cs",
+              "RelativeToolTip": "Controllers\\PassengerDetailController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwFwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T10:04:05.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Train.cs",
+              "DocumentMoniker": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\Models\\Train.cs",
+              "RelativeDocumentMoniker": "Models\\Train.cs",
+              "ToolTip": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\Models\\Train.cs",
+              "RelativeToolTip": "Models\\Train.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAmwCIAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T13:29:59.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PassengerDetail.cs",
+              "DocumentMoniker": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\Models\\PassengerDetail.cs",
+              "RelativeDocumentMoniker": "Models\\PassengerDetail.cs",
+              "ToolTip": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\Models\\PassengerDetail.cs",
+              "RelativeToolTip": "Models\\PassengerDetail.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA5wBoAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:30:18.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAADUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T11:51:10.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserType.cs",
+              "DocumentMoniker": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\Enums\\UserType.cs",
+              "RelativeDocumentMoniker": "Enums\\UserType.cs",
+              "ToolTip": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\Enums\\UserType.cs",
+              "RelativeToolTip": "Enums\\UserType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:28:53.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T03:55:31.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FareRuleController.cs",
+              "DocumentMoniker": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\Controllers\\FareRuleController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FareRuleController.cs",
+              "ToolTip": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\Controllers\\FareRuleController.cs",
+              "RelativeToolTip": "Controllers\\FareRuleController.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAswFwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T09:15:08.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DistanceController.cs",
+              "DocumentMoniker": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\Controllers\\DistanceController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DistanceController.cs",
+              "ToolTip": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\Controllers\\DistanceController.cs",
+              "RelativeToolTip": "Controllers\\DistanceController.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAswC4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T09:19:03.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAkwEYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T03:57:19.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "Services\\IUserService.cs",
+              "ToolTip": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\Services\\IUserService.cs",
+              "RelativeToolTip": "Services\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T04:06:36.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SearchService.cs",
+              "DocumentMoniker": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\Services\\SearchService.cs",
+              "RelativeDocumentMoniker": "Services\\SearchService.cs",
+              "ToolTip": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\Services\\SearchService.cs",
+              "RelativeToolTip": "Services\\SearchService.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAgwHAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T08:54:46.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StationService.cs",
+              "DocumentMoniker": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\Services\\StationService.cs",
+              "RelativeDocumentMoniker": "Services\\StationService.cs",
+              "ToolTip": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\Services\\StationService.cs",
+              "RelativeToolTip": "Services\\StationService.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowBEAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T08:59:33.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TrainService.cs",
+              "DocumentMoniker": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\Services\\TrainService.cs",
+              "RelativeDocumentMoniker": "Services\\TrainService.cs",
+              "ToolTip": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\Services\\TrainService.cs",
+              "RelativeToolTip": "Services\\TrainService.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwA8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T08:50:41.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IScheduleService.cs",
+              "DocumentMoniker": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\Services\\IScheduleService.cs",
+              "RelativeDocumentMoniker": "Services\\IScheduleService.cs",
+              "ToolTip": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\Services\\IScheduleService.cs",
+              "RelativeToolTip": "Services\\IScheduleService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T10:00:47.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ISearchService.cs",
+              "DocumentMoniker": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\Services\\ISearchService.cs",
+              "RelativeDocumentMoniker": "Services\\ISearchService.cs",
+              "ToolTip": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\Services\\ISearchService.cs",
+              "RelativeToolTip": "Services\\ISearchService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T08:54:17.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IStationService.cs",
+              "DocumentMoniker": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\Services\\IStationService.cs",
+              "RelativeDocumentMoniker": "Services\\IStationService.cs",
+              "ToolTip": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\Services\\IStationService.cs",
+              "RelativeToolTip": "Services\\IStationService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T08:59:09.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ITrainService.cs",
+              "DocumentMoniker": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\Services\\ITrainService.cs",
+              "RelativeDocumentMoniker": "Services\\ITrainService.cs",
+              "ToolTip": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\Services\\ITrainService.cs",
+              "RelativeToolTip": "Services\\ITrainService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T08:50:11.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PassengerDetailService.cs",
+              "DocumentMoniker": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\Services\\PassengerDetailService.cs",
+              "RelativeDocumentMoniker": "Services\\PassengerDetailService.cs",
+              "ToolTip": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\Services\\PassengerDetailService.cs",
+              "RelativeToolTip": "Services\\PassengerDetailService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T10:03:16.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FareRuleService.cs",
+              "DocumentMoniker": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\Services\\FareRuleService.cs",
+              "RelativeDocumentMoniker": "Services\\FareRuleService.cs",
+              "ToolTip": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\Services\\FareRuleService.cs",
+              "RelativeToolTip": "Services\\FareRuleService.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAswD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T09:14:34.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DistanceService.cs",
+              "DocumentMoniker": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\Services\\DistanceService.cs",
+              "RelativeDocumentMoniker": "Services\\DistanceService.cs",
+              "ToolTip": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\Services\\DistanceService.cs",
+              "RelativeToolTip": "Services\\DistanceService.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAgwEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T09:18:18.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAgwCsAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T10:26:02.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAswB8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:04:52.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IPassengerDetailService.cs",
+              "DocumentMoniker": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\Services\\IPassengerDetailService.cs",
+              "RelativeDocumentMoniker": "Services\\IPassengerDetailService.cs",
+              "ToolTip": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\Services\\IPassengerDetailService.cs",
+              "RelativeToolTip": "Services\\IPassengerDetailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T10:02:53.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ScheduleController.cs",
+              "DocumentMoniker": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\Controllers\\ScheduleController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ScheduleController.cs",
+              "ToolTip": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\Controllers\\ScheduleController.cs",
+              "RelativeToolTip": "Controllers\\ScheduleController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T10:02:07.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ScheduleService.cs",
+              "DocumentMoniker": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\Services\\ScheduleService.cs",
+              "RelativeDocumentMoniker": "Services\\ScheduleService.cs",
+              "ToolTip": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\Services\\ScheduleService.cs",
+              "RelativeToolTip": "Services\\ScheduleService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAG4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T10:01:30.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FareRule.cs",
+              "DocumentMoniker": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\Models\\FareRule.cs",
+              "RelativeDocumentMoniker": "Models\\FareRule.cs",
+              "ToolTip": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\Models\\FareRule.cs",
+              "RelativeToolTip": "Models\\FareRule.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAA6wBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T13:46:54.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "RouteController.cs",
+              "DocumentMoniker": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\Controllers\\RouteController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RouteController.cs",
+              "ToolTip": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\Controllers\\RouteController.cs",
+              "RelativeToolTip": "Controllers\\RouteController.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAkwFwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T09:11:33.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RouteService.cs",
+              "DocumentMoniker": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\Services\\RouteService.cs",
+              "RelativeDocumentMoniker": "Services\\RouteService.cs",
+              "ToolTip": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\Services\\RouteService.cs",
+              "RelativeToolTip": "Services\\RouteService.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAowEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T09:05:40.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SearchController.cs",
+              "DocumentMoniker": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\Controllers\\SearchController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SearchController.cs",
+              "ToolTip": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\Controllers\\SearchController.cs",
+              "RelativeToolTip": "Controllers\\SearchController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T09:46:41.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "StationController.cs",
+              "DocumentMoniker": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\Controllers\\StationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StationController.cs",
+              "ToolTip": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\Controllers\\StationController.cs",
+              "RelativeToolTip": "Controllers\\StationController.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAowFcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T09:00:19.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "TrainController.cs",
+              "DocumentMoniker": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\Controllers\\TrainController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TrainController.cs",
+              "ToolTip": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\Controllers\\TrainController.cs",
+              "RelativeToolTip": "Controllers\\TrainController.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAkwEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T08:52:09.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\DTOs\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "DTOs\\LoginRequest.cs",
+              "ToolTip": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\DTOs\\LoginRequest.cs",
+              "RelativeToolTip": "DTOs\\LoginRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T03:56:47.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\DTOs\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "DTOs\\RegisterRequest.cs",
+              "ToolTip": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\DTOs\\RegisterRequest.cs",
+              "RelativeToolTip": "DTOs\\RegisterRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T03:58:46.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-19T10:40:02.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Route.cs",
+              "DocumentMoniker": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\Models\\Route.cs",
+              "RelativeDocumentMoniker": "Models\\Route.cs",
+              "ToolTip": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\Models\\Route.cs",
+              "RelativeToolTip": "Models\\Route.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAwwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T13:30:52.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Schedule.cs",
+              "DocumentMoniker": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\Models\\Schedule.cs",
+              "RelativeDocumentMoniker": "Models\\Schedule.cs",
+              "ToolTip": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\Models\\Schedule.cs",
+              "RelativeToolTip": "Models\\Schedule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T13:31:18.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20241028172811_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\Migrations\\20241028172811_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241028172811_InitialCreate.cs",
+              "ToolTip": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\Migrations\\20241028172811_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20241028172811_InitialCreate.cs",
+              "ViewState": "AQIAANYAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T17:30:14.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Station.cs",
+              "DocumentMoniker": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\Models\\Station.cs",
+              "RelativeDocumentMoniker": "Models\\Station.cs",
+              "ToolTip": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\Models\\Station.cs",
+              "RelativeToolTip": "Models\\Station.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T13:29:21.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Distance.cs",
+              "DocumentMoniker": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\Models\\Distance.cs",
+              "RelativeDocumentMoniker": "Models\\Distance.cs",
+              "ToolTip": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\Models\\Distance.cs",
+              "RelativeToolTip": "Models\\Distance.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAmwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:01:23.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\Enums\\Gender.cs",
+              "RelativeDocumentMoniker": "Enums\\Gender.cs",
+              "ToolTip": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\Enums\\Gender.cs",
+              "RelativeToolTip": "Enums\\Gender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:28:17.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "PaymentStatus.cs",
+              "DocumentMoniker": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\Enums\\PaymentStatus.cs",
+              "RelativeDocumentMoniker": "Enums\\PaymentStatus.cs",
+              "ToolTip": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\Enums\\PaymentStatus.cs",
+              "RelativeToolTip": "Enums\\PaymentStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T12:54:34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IRouteService.cs",
+              "DocumentMoniker": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\Services\\IRouteService.cs",
+              "RelativeDocumentMoniker": "Services\\IRouteService.cs",
+              "ToolTip": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\Services\\IRouteService.cs",
+              "RelativeToolTip": "Services\\IRouteService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T09:05:19.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "IFareRuleService.cs",
+              "DocumentMoniker": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\Services\\IFareRuleService.cs",
+              "RelativeDocumentMoniker": "Services\\IFareRuleService.cs",
+              "ToolTip": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\Services\\IFareRuleService.cs",
+              "RelativeToolTip": "Services\\IFareRuleService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T09:13:15.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IDistanceService.cs",
+              "DocumentMoniker": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\Services\\IDistanceService.cs",
+              "RelativeDocumentMoniker": "Services\\IDistanceService.cs",
+              "ToolTip": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\Services\\IDistanceService.cs",
+              "RelativeToolTip": "Services\\IDistanceService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T09:17:36.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "TravelClass.cs",
+              "DocumentMoniker": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\Enums\\TravelClass.cs",
+              "RelativeDocumentMoniker": "Enums\\TravelClass.cs",
+              "ToolTip": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\Enums\\TravelClass.cs",
+              "RelativeToolTip": "Enums\\TravelClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:27:45.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "OnlineRailroad.csproj",
+              "DocumentMoniker": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\OnlineRailroad.csproj",
+              "RelativeDocumentMoniker": "OnlineRailroad.csproj",
+              "ToolTip": "D:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\Test\\OnlineRailroad\\OnlineRailroad.csproj",
+              "RelativeToolTip": "OnlineRailroad.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-07T15:20:36.297Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
